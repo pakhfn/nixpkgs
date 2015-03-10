@@ -6754,6 +6754,8 @@ let
 
   ogre = callPackage ../development/libraries/ogre {};
 
+  ogre2 = callPackage ../development/libraries/ogre2 {};
+
   ogrepaged = callPackage ../development/libraries/ogrepaged { };
 
   oniguruma = callPackage ../development/libraries/oniguruma { };
