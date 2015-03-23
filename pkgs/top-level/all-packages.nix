@@ -2042,6 +2042,8 @@ let
 
   openarena = callPackage ../games/openarena { };
 
+  openclonk = callPackage ../games/openclonk { };
+
   opencryptoki = callPackage ../tools/security/opencryptoki { };
 
   onscripter-en = callPackage ../games/onscripter-en { };
